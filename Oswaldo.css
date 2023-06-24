@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+#Titulo {font-family:'Quicksand', sans-serif;
+text-align: center;
+color: gold
+
+}
+body {
+
+background-color: #181C28
+}
+
+#p1 {
+font-size: 13pt;
+color: white;
+font-family: 'Quicksand', sans-serif;
+}
+
+#infancia {font-family:'Quicksand', sans-serif;
+    text-align: center;
+    color: gold}
+
+
+    #imagem{text-align: center;}
